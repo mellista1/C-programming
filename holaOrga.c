@@ -345,12 +345,6 @@ int main() {
 
 /*--------------------------------------------------------------------------*/
 
-int resultado = 0;
-for (int i = 10; i >= 0; i--)
-{
-    resultado++;
-}
-printf("%i\n", resultado );
 
 
     return 0;
