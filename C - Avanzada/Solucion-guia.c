@@ -96,7 +96,6 @@ printf("Monstruo Evolucionado -> Nombre: %s, Vida: %d, Ataque: %lf, Defensa: %lf
   *p -> imprime el 42.
 
 
-  (le pegue ;p )
   */
 
 
@@ -465,7 +464,7 @@ void listAddFirst(list_t* l, void* data) {
 
 
 
-//IMPORTANTE: ARMAR EL ARCHIVO .H -> EN EL VAN TODAS LAS DECLARACIONES!!!! -> SIN ESE ARCHIVO SE ROMPE TODOOO
+//IMPORTANTE: ARMAR EL ARCHIVO .H -> EN EL VAN TODAS LAS DECLARACIONES!!!! -> SIN ESE ARCHIVO SE ROMPE TODO
 
 
 //Las funciones de tipo new crean archivos, y las funciones de tipo copy copian archivos y las
