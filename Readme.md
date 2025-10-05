@@ -2,7 +2,7 @@
 
 Todo el contenido del repositorio fue brindado y resuelto durante la cursada de la materia "Arquitectura y Organización del Computador" de la carrera universitaria Ciencias de la Computación en la Universidad de Buenos Aires (UBA - FCEyN). Todo el contenido de aprendizaje fue realizado por los docentes de la cátedra y las resoluciones de los ejercicios son de mi autoría. 
 
-## ¿Qué encontraré en este repositorio? 
+## ¿Qué encontrarás en este repositorio? 
 
 En este repositorio encontraras una colección de ejercicios de niveles introductorios hasta niveles mas avanzados de programación en C. En cada directorio hay un pdf con una guía que invita a un aprendizaje profundo de funciones, punteros, etc. En cada guía de presentan ejercicios para poner en practica todo lo aprendido, por lo tanto, también encontrarán resoluciones a dichos ejercicios. 
 
