@@ -9,8 +9,10 @@ En este repositorio encontraras una colección de ejercicios de niveles introduc
 ## Bibliografía recomendada
 
 Interacción con lenguajes de alto nivel
-    - Thinking in C, Volumen 1; Bruce Eckel; Mindview, Inc.
-    - Programming Languages: Design and Implementation, 4/E; Terrence W. Pratt, Marvin V. Zelkowitz
+
+- Thinking in C, Volumen 1; Bruce Eckel; Mindview, Inc.
+
+- Programming Languages: Design and Implementation, 4/E; Terrence W. Pratt, Marvin V. Zelkowitz
 
 
 
